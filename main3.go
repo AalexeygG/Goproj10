@@ -1,4 +1,4 @@
-/* 3.6.2 мое решение
+// 3.6.2 мое решение
 package main
 
 import (
@@ -31,7 +31,6 @@ func main() {
 	}
 	fmt.Println(sum)
 }
-*/
 
 /* 3.6.2 - решение с декодом и енкодом
 package main
